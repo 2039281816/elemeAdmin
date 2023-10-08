@@ -19,5 +19,5 @@ package:
 	for dir in $(PACKAGE_DIRS);\
 	do \
 		cd $$dir && make ; cd ..;\
-	done
+	done12312312313
 
